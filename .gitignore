@@ -250,3 +250,11 @@ com_crashlytics_export_strings.xml
 
 # Notepad++ backups #
 *.bak
+
+
+##################################################
+# Node/NPM cruft
+##################################################
+
+node_modules/
+
